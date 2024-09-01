@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>C:\Users\k023g\OneDrive\デスクトップ\2024_codeFile\AL3\評価課題\AL3-評価課題_バックアップ7\Generated\Outputs\Debug\DirectXGame.exe</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles>
+    <ContentFile>
+      <FullPath>C:\Users\k023g\OneDrive\デスクトップ\2024_codeFile\AL3\評価課題\AL3-評価課題_バックアップ7\Generated\Outputs\Debug\TerrainPS.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\k023g\OneDrive\デスクトップ\2024_codeFile\AL3\評価課題\AL3-評価課題_バックアップ7\Generated\Outputs\Debug\TerrainVS.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\k023g\OneDrive\デスクトップ\2024_codeFile\AL3\評価課題\AL3-評価課題_バックアップ7\Generated\Outputs\Debug\ObjPS.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\k023g\OneDrive\デスクトップ\2024_codeFile\AL3\評価課題\AL3-評価課題_バックアップ7\Generated\Outputs\Debug\ObjVS.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\k023g\OneDrive\デスクトップ\2024_codeFile\AL3\評価課題\AL3-評価課題_バックアップ7\Generated\Outputs\Debug\PrimitivePS.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\k023g\OneDrive\デスクトップ\2024_codeFile\AL3\評価課題\AL3-評価課題_バックアップ7\Generated\Outputs\Debug\PrimitiveVS.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\k023g\OneDrive\デスクトップ\2024_codeFile\AL3\評価課題\AL3-評価課題_バックアップ7\Generated\Outputs\Debug\ShapePS.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\k023g\OneDrive\デスクトップ\2024_codeFile\AL3\評価課題\AL3-評価課題_バックアップ7\Generated\Outputs\Debug\ShapeVS.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\k023g\OneDrive\デスクトップ\2024_codeFile\AL3\評価課題\AL3-評価課題_バックアップ7\Generated\Outputs\Debug\SpritePS.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\k023g\OneDrive\デスクトップ\2024_codeFile\AL3\評価課題\AL3-評価課題_バックアップ7\Generated\Outputs\Debug\SpriteVS.cso</FullPath>
+    </ContentFile>
+  </ContentFiles>
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>

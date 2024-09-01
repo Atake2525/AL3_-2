@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>C:\Users\k023g\OneDrive\デスクトップ\2024_codeFile\AL3\評価課題\AL3-評価課題\Generated\Outputs\Release\DirectXGame.exe</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles>
+    <ContentFile>
+      <FullPath>C:\Users\k023g\OneDrive\デスクトップ\2024_codeFile\AL3\評価課題\AL3-評価課題\Generated\Outputs\Release\TerrainPS.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\k023g\OneDrive\デスクトップ\2024_codeFile\AL3\評価課題\AL3-評価課題\Generated\Outputs\Release\TerrainVS.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\k023g\OneDrive\デスクトップ\2024_codeFile\AL3\評価課題\AL3-評価課題\Generated\Outputs\Release\ObjPS.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\k023g\OneDrive\デスクトップ\2024_codeFile\AL3\評価課題\AL3-評価課題\Generated\Outputs\Release\ObjVS.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\k023g\OneDrive\デスクトップ\2024_codeFile\AL3\評価課題\AL3-評価課題\Generated\Outputs\Release\PrimitivePS.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\k023g\OneDrive\デスクトップ\2024_codeFile\AL3\評価課題\AL3-評価課題\Generated\Outputs\Release\PrimitiveVS.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\k023g\OneDrive\デスクトップ\2024_codeFile\AL3\評価課題\AL3-評価課題\Generated\Outputs\Release\ShapePS.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\k023g\OneDrive\デスクトップ\2024_codeFile\AL3\評価課題\AL3-評価課題\Generated\Outputs\Release\ShapeVS.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\k023g\OneDrive\デスクトップ\2024_codeFile\AL3\評価課題\AL3-評価課題\Generated\Outputs\Release\SpritePS.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\k023g\OneDrive\デスクトップ\2024_codeFile\AL3\評価課題\AL3-評価課題\Generated\Outputs\Release\SpriteVS.cso</FullPath>
+    </ContentFile>
+  </ContentFiles>
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>
